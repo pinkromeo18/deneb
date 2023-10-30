@@ -94,7 +94,7 @@ export function getHTML(){
   document.body.append(el);  
 }
 
-function deneb(){
+export function deneb(){
   const g=d=>document.getElementById(d)
   getStyle()
   getHTML()
@@ -108,5 +108,5 @@ function deneb(){
           $bottom:g('bottom-wrap')}
 }
 ////////////////////
-window.deneb=deneb;
+deneb();
 ////////////////////
