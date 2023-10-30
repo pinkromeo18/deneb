@@ -107,3 +107,6 @@ function deneb(){
           $top:g('top-wrap'),
           $bottom:g('bottom-wrap')}
 }
+////////////////////
+window.deneb=deneb;
+////////////////////
