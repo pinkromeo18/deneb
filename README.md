@@ -2,6 +2,6 @@
 deneb is kingframe
 
 ```
-import "//pinkromeo18.github.com/deneb/deneb.js"
+import "//pinkromeo18.github.io/deneb/deneb.js"
 var de = deneb();
 ```
